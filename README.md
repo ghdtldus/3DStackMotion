@@ -1,4 +1,4 @@
-# 3D Stack Motion on Scroll
+# 3D Stack Motion on Scroll.
 
 A [#3D](https://tympanus.net/codrops/demos/?tag=3d) [#stack](https://tympanus.net/codrops/demos/?tag=stack) motion effect on [#scroll](https://tympanus.net/codrops/demos/?tag=scroll) inspired by [Looksrare: NFT cards](https://dribbble.com/shots/23641913-Looksrare-NFT-cards).
 
